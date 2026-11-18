@@ -1,6 +1,6 @@
 # cfdi-consumer
 
-Proyecto de **pruebas** que consume la librería [`cfdi40-printer`](https://github.com/TU_USUARIO_U_ORG/cfdi40-printer) para generar la representación impresa (PDF) de un CFDI 4.0 a partir de su XML. No es una librería ni se publica: sirve para validar manualmente el comportamiento de `cfdi40-model` y `cfdi40-printer` con XML reales.
+Proyecto de **pruebas** que consume la librería [`cfdi40-printer`](https://github.com/eabadillom/cfdi40-printer) para generar la representación impresa (PDF) de un CFDI 4.0 a partir de su XML. No es una librería ni se publica: sirve para validar manualmente el comportamiento de `cfdi40-model` y `cfdi40-printer` con XML reales.
 
 ## Contenido
 
